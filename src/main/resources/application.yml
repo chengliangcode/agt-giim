@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: info
+agt:
+  security:
+    jwt:
+      secret: chengliang
